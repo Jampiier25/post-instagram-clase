@@ -12,6 +12,7 @@ div.post{
     padding: auto;
     width:600px;
     margin:auto;
+   
     
     }
 div{
@@ -50,7 +51,4 @@ div.post-icons{
     justify-content:space-between;
     width:auto;
     padding: 0;
-}
-.hticono{
-    background-image: https://cdn-icons-png.freepik.com/512/152/152843.png;
 }
